@@ -1,6 +1,6 @@
 # Azure All in one Guide
 
-![Azure](https://imgur.com/kIeOabR.png)
+![Azure](https://imgur.com/lkApUgb.png)
 
 ***A curated list of awesome Azure Resources, libraries, open source repos, guides, blogs, and other resources.***
 
